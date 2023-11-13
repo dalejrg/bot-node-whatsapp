@@ -76,7 +76,7 @@ async function run() {
 
     if (hora >= 6 && hora < 12) {
       saludo = "Hola, buenos días 🌞";
-    } else if (hora >= 12 && hora < 17) {
+    } else if (hora >= 12 && hora < 18) {
       saludo = "Hola, buenas tardes ⛅";
     } else {
       saludo = "Hola, buenas noches 🌛";
